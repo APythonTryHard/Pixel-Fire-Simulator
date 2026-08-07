@@ -8,11 +8,11 @@ Built with **Python, NumPy, Tkinter, OpenCV, and Pillow**. The application uses 
 
 ### Simulation 1
 
-[![Demo](demo.gif)](https://Examples.com/demo.mp4)
+[Watch the demo](Examples/demo.mp4)
 
 ### Simulation 2
 
-[![Demo](demo.gif)](https://Examples.com/demo2.mp4)
+[Watch the demo](Examples/demo2.mp4)
 
 ## Features
 
