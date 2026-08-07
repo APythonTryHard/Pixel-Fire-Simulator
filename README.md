@@ -8,11 +8,11 @@ Built with **Python, NumPy, Tkinter, OpenCV, and Pillow**. The application uses 
 
 ### Simulation 1
 
-/Users/noahlawson/PycharmProjects/Fire/Examples/Fire1.mov
+[![Demo](demo.gif)](https://Examples.com/demo.mp4)
 
 ### Simulation 2
 
-/Users/noahlawson/PycharmProjects/Fire/Examples/Fire1.mov
+[![Demo](demo.gif)](https://Examples.com/demo2.mp4)
 
 ## Features
 
