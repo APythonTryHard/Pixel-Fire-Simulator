@@ -59,7 +59,7 @@ Fire spread probability is calculated using environmental factors including **dr
 ## Project Files
 
 ```text
-wildfire_simulator.py
+main.py
 Fire1.mp4
 Fire2.mp4
 README.md
